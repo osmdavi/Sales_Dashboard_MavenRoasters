@@ -15,12 +15,12 @@ The interactive dashboard I created provides actionable insights for Maven Roast
 - Hell's Kitchen leads in sales revenue. Astoria and Lower Manhattan follow closely behind.
 - Coffee and Tea are the top-selling products. Coffee and Tea sold 89,250 units and 69,737 units respectively.
 - Sales revenue is trending upward. June closed out the tracked period with $154,530 in net sales.
-  - Coffee generated $64,789 in profit from 21,444 units sold
-  - Tea followed closely behind, earning $46, 243.15 from 16,401 units sold
-- 6AM - 10AM should be the most staffed hours
+  - Coffee generated $64,789 in profit from 21,444 units sold.
+  - Tea followed closely behind, earning $46, 243.15 from 16,401 units sold.
+- 6AM - 10AM should be the most staffed hours.
 
-## Recommendations: 
-- Prioritize Coffee and Tea in marketing efforts since they drive the highest revenue
-- Expand variety of Coffees and Tea. Having a wider selection can drive interest in these two products, increasing foottraffic and interest in other products sold
+### Recommendations: 
+- Prioritize Coffee and Tea in marketing efforts since they drive the highest revenue.
+- Expand variety of Coffees and Tea. Having a wider selection can drive interest in these two products, increasing foottraffic and interest in other products sold.
 - Prioritize staffing during peak hours. Ensuring orders are successfully fulfilled in a timely manner improves customer satisfaction, increasing customer retention.
 
