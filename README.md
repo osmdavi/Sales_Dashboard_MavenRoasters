@@ -7,8 +7,9 @@ Provide valuable insights to Maven Roasters executives by making the sales reven
 ## Interactive Dashboard
 <img width="1399" height="788" alt="image" src="https://github.com/user-attachments/assets/b5275014-6075-417d-8570-40281b3ce006" />
 
-## Analysis and Suggestions
 The interactive dashboard I created provides actionable insights for Maven Roasters' managers and executives. Helping them identify current trends and make informed decision making across various locations and product categories.
+
+## Analysis and Suggestions
 
 ### Key findings:
 - Hell's Kitchen leads in sales revenue. Astoria and Lower Manhattan follow closely behind.
