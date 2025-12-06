@@ -1,4 +1,4 @@
-# Maven Roasters Sales Revenue Dashboard [ via Power BI ]
+# Maven Roasters Sales Revenue Dashboard [via Power BI]
 This interactive dashboard was created to be used by managers and business owners to gain a better understanding of Maven Roaster's performance in its various locations. The dashboard provides an overview of sales revenue, product performance, average daily performance, and sales performance overtime.
 
 ## Objective
@@ -14,10 +14,10 @@ The interactive dashboard I created provides actionable insights for Maven Roast
 ### Key findings:
 - Hell's Kitchen leads in sales revenue. Astoria and Lower Manhattan follow closely behind.
 - Coffee and Tea are the top-selling products. Coffee and Tea sold 89,250 units and 69,737 units respectively.
-- Sales revenue is trending upward. June closed out the tracked period with $154,530 in net sales.
+- Sales revenue is trending upward. June was the highest grossing month, closing out the tracked period with $154,530 in net sales.
   - Coffee generated $64,789 in profit from 21,444 units sold.
   - Tea followed closely behind, earning $46, 243.15 from 16,401 units sold.
-- 6AM - 10AM should be the most staffed hours.
+- On average 6AM-10AM are the busiest hours.
 
 ### Recommendations: 
 - Prioritize Coffee and Tea in marketing efforts since they drive the highest revenue.
