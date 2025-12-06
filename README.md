@@ -1,4 +1,4 @@
-# Maven Roasters Sales Revenue Dashboard via Power BI
+# Maven Roasters Sales Revenue Dashboard [ via Power BI ]
 This interactive dashboard was created to be used by managers and business owners to gain a better understanding of Maven Roaster's performance in its various locations. The dashboard provides an overview of sales revenue, product performance, average daily performance, and sales performance overtime.
 
 ## Objective
